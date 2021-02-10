@@ -108,20 +108,35 @@ Result: [8, 2, 3, 1, 0, 0, 0, 0, 0]
 The dataset used:
 
 A1 = "Python para todos" 
+
 B1 = "Aprendiendo Python para todos en la web"
+
 Result:
+
 Common words: ['Python', 'para', 'todos']
+
 Un common words:  ['Aprendiendo', 'en', 'la', 'web']
 
+
 A2 = "Londres" 
+
 B2 = "Juegos olimpicos en Londres"
+
 Result:
+
 Common words: ['Londres']
+
 Un common words:  ['Juegos', 'olimpicos', 'en']
 
+
 A3 = "Java" 
+
 B3 = "Test of script"
+
 Result:
+
 Common words: []
+
 Un common words:  ['Test', 'of', 'script']
+
 
