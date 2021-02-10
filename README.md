@@ -5,18 +5,25 @@ The dataset used:
 
 console.log(palindrome("hannah"));
 true
+
 console.log(palindrome("pepe"));
 false
+
 console.log(palindrome("00 0 0 00"));
 true
+
 console.log(palindrome("00 0 0 01"));
 false
+
 console.log(palindrome(""));
 true
+
 console.log(palindrome("true"));
 false
+
 console.log(palindrome("null"));
 false
+
 console.log(palindrome("HANNAH"));
 true
 
@@ -44,22 +51,39 @@ I checked in the console of browser and show all element of page, body, div and 
 
 Result in console:
 1
+
 2
+
 3 Fizz
+
 4
+
 5 Buzz
+
 6 Fizz
+
 7
+
 8
+
 9 Fizz
+
 10 Buzz
+
 11
+
 12 Fizz
+
 13
+
 14
+
 15 FizzBuzz
+
 16
+
 17
+
 ...
 
 I checked in the console of browser
