@@ -118,6 +118,7 @@ Common words: ['Python', 'para', 'todos']
 Un common words:  ['Aprendiendo', 'en', 'la', 'web']
 
 
+
 A2 = "Londres" 
 
 B2 = "Juegos olimpicos en Londres"
@@ -127,6 +128,7 @@ Result:
 Common words: ['Londres']
 
 Un common words:  ['Juegos', 'olimpicos', 'en']
+
 
 
 A3 = "Java" 
